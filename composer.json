@@ -1,0 +1,19 @@
+{
+    "name": "root/test-example",
+    "authors": [
+        {
+            "name": "David Huerta",
+            "email": "dhuerta23@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^4.8",
+        "ajbdev/authorizenet-php-api": "dev-master"
+
+    },
+    "autoload": {
+        "psr-0": {
+            "phpUnitTutorial": ""
+        }
+    }
+}
